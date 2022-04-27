@@ -43,7 +43,7 @@ Kullanacağınız wifi bağlantısının isim-şifre bilgilerinii koda entegre e
 
 ---
 
-İletişim - [LinkedIn](https://www.linkedin.com/in/nouman-nteli-impraim/) 
+### :shipit: İletişim - [LinkedIn](https://www.linkedin.com/in/nouman-nteli-impraim/) 
 
 ---
 [^1]: Opsiyonel olarak mini de tercih edilebilir.
