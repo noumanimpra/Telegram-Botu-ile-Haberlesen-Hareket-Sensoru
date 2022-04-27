@@ -16,7 +16,7 @@ int hareket;
 
 // Telegram BOT bilgileri. 
 #define BOTtoken "00000000000000000000000000000000000000" // Telegram uygulaması üzerinden Botfather ile öğreneceğiz. Burayı değiştirmeyi unutmayın.
-#define CHAT_ID "00000000000" // Myidbot ile telegram ID'sini öğrenerek buraya yazacağız.Burayı değiştirmeyi unutmayın.
+#define CHAT_ID "00000000000" // idbot ile telegram ID'sini öğrenerek buraya yazacağız.Burayı değiştirmeyi unutmayın.
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
