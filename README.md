@@ -3,7 +3,7 @@
 ## Deneyap Kart kullanarak Telegram Bot üzerinden haberleşme sağlıyan hareket sensörü.
 
 ---
-> ### Malzemeler: 
+> ### Malzemeler
 
 | ADET | ISIM |
 | ----------- | ----------- |
@@ -12,15 +12,23 @@
 | 1 | Breadboard |
 | 1 | LED |
 | 1 | 220Ω direnç |
----
+
+> ### Kullanılan kütüphaneler
+ - deneyap.h
+ - WiFiClientSecure.h
+ - UniversalTelegramBot.h
+ - ArduinoJson.h
+ - WiFi.h
  
+ 
+
 > ### Açıklama
 Bot father kullanılarak bot olusturulduktan sonra Chat ID ve bot ID lerinin alınıp koda entegre edilmesi gerekmektedir. Belirtilen yere yapıştırılması yeterlidir.
 Kullanacağınız wifi bağlantısının isim-şifre bilgilerinii koda entegre edilmesi gerekmekte. Yine aynı şekilde belirtilen yere yapıştırılması yeterlidir.
 
-> ### Baglantılar 
 
----
+
+> ### Baglantılar 
 
 - **Led** -> D10/GND
 - **PIR sinyal** -> 3.3v/D9/
@@ -45,5 +53,5 @@ Kullanacağınız wifi bağlantısının isim-şifre bilgilerinii koda entegre e
 
 ### :shipit: İletişim - [LinkedIn](https://www.linkedin.com/in/nouman-nteli-impraim/) 
 
----
+
 [^1]: Opsiyonel olarak mini de tercih edilebilir.
